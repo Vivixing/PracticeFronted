@@ -1,0 +1,19 @@
+pipeline{
+    agent any 
+    stages{
+        stage(){
+            steps{
+                script{
+                    
+                }
+            }
+        }
+        stage(){
+            steps{
+                script{
+                    
+                }
+            }
+        }
+    }
+}
